@@ -36,13 +36,14 @@
 </p>
 
 ---
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="192px" width="49,5%" align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePEREDERII&show_icons=true&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&icon_color=EEE170"/>
+<section align="center">
+  <a href="https://github.com/AntoinePEREDERII">
+    <img height="192px" width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePEREDERII&show_icons=true&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&icon_color=EEE170"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img height="192px" width="49,5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
+</section>
 <section align="center">
   <h2>My bests projects</h2>
   <a style="padding-top:5rem" href="https://github.com/AntoinePEREDERII/WIO_Game">
