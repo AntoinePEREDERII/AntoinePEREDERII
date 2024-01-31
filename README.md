@@ -38,10 +38,10 @@
 ---
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 width=49,5% align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePEREDERII&show_icons=true&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&icon_color=EEE170"/>
+    <img height=192px width=49,5% align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePEREDERII&show_icons=true&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&icon_color=EEE170"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 width=49,5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img height=192px width=49,5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </section>
 <section align="center">
