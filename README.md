@@ -15,10 +15,10 @@
 
 <p align="center">
  <a href="https://antoineperederii.github.io/MyPortfolio" target="blank">
-  <img src="https://img.shields.io/badge/website portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="AntoinePEREDERII" />
+  <img src="https://img.shields.io/badge/website portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white&exclude_repo=github-readme-stats" alt="AntoinePEREDERII"/>
  </a>
  <a href="https://linkedin.com/in/antoine-perederii-b54913292/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AntoinePEREDERII"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&exclude_repo=github-readme-stats" alt="AntoinePEREDERII"/>
  </a>
 <br />
 
