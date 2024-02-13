@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <a href="https://antoineperederii.github.io/MyPortfolio" target="blank">
+ <a href="https://antoineperederii.github.io/Portfolio/" target="blank">
   <img src="https://img.shields.io/badge/website portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="AntoinePEREDERII"/>
  </a>
  <a href="https://linkedin.com/in/antoine-perederii-b54913292/" target="_blank">
