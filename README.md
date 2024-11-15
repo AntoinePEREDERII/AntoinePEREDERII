@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a computer science student at <b>IUT Clermont Auvergne.</b> 」
+    「 I am an ingeneer science student at <b>ESISAR school</b> on Valence. 」
     <br>
     <br>
   </samp>
@@ -27,7 +27,7 @@
 <p>
   
  ✌️ &emsp; Enjoy to do computer programming and electronics projects <br/><br/>
- 📤 &emsp; Reach me anytime: antoineperederii@gmail.com or for study: antoine.perederii@etu.uca.fr<br/><br/>
+ 📤 &emsp; Reach me anytime: antoineperederii@gmail.com or for study: antoine.perederii@etu.esisar.grenoble-inp.fr<br/><br/>
 </p>
 
 
