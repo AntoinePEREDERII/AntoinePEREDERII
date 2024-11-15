@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am an ingeneer science student at <b>ESISAR school</b> on Valence. 」
+    「 I am an ingeneer science student at <b>ESISAR</b> school on Valence. 」
     <br>
     <br>
   </samp>
