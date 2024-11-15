@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <a href="https://antoineperederii.github.io/Portfolio/" target="blank">
+ <a href="https://antoineperederii.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/website portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="AntoinePEREDERII"/>
  </a>
  <a href="https://linkedin.com/in/antoine-perederii-b54913292/" target="_blank">
@@ -31,22 +31,21 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/AntoinePEREDERII?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ---
 <section align="center">
   <a href="https://github.com/AntoinePEREDERII">
-    <img height="192px" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePEREDERII&show_icons=true&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&icon_color=EEE170&exclude_repo=github-readme-stats"/>
+    <img height="200px" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePEREDERII&show_icons=true&text_color=fff&bg_color=30,e96443,904e95&title_color=fff&icon_color=EEE170&exclude_repo=github-readme-stats"/>
   </a>
-  <a>
-    <img height="192px" width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePEREDERII&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&exclude_repo=github-readme-stats" />
+  <a href="https://github.com/AntoinePEREDERII">
+    <img height="200px" width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePEREDERII&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&exclude_repo=github-readme-stats" />
   </a>
 </section>
 <section align="center">
   <h2>My bests projects</h2>
-  <a style="padding-top:5rem" href="https://github.com/AntoinePEREDERII/WIO_Game">
   <a href="https://github.com/AntoinePEREDERII/ArduinoCO2Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoinePEREDERII&repo=ArduinoCO2Project&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=000" />
   </a>
